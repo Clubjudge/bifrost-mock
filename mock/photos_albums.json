@@ -1,0 +1,193 @@
+{
+  "generatedBy": "http://beta.json-generator.com/NurfI-a",
+  "albums": [
+    {
+      "id": 1,
+      "name": "Volax",
+      "date": "2014-10-20",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 5920
+    },
+    {
+      "id": 2,
+      "name": "Tourmania",
+      "date": "2014-08-30",
+      "cover": "http://goo.gl/rzmrTr",
+      "photosCount": 22
+    },
+    {
+      "id": 3,
+      "name": "Daisu",
+      "date": "2014-10-15",
+      "cover": "http://goo.gl/rzmrTr",
+      "photosCount": 8300
+    },
+    {
+      "id": 4,
+      "name": "Exospeed",
+      "date": "2014-02-27",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 5320
+    },
+    {
+      "id": 5,
+      "name": "Exoblue",
+      "date": "2014-02-20",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 1717
+    },
+    {
+      "id": 6,
+      "name": "Tropoli",
+      "date": "2014-01-08",
+      "cover": "http://goo.gl/rzmrTr",
+      "photosCount": 4382
+    },
+    {
+      "id": 7,
+      "name": "Knowlysis",
+      "date": "2014-03-17",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 5782
+    },
+    {
+      "id": 8,
+      "name": "Arctiq",
+      "date": "2014-01-27",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 8009
+    },
+    {
+      "id": 9,
+      "name": "Xoggle",
+      "date": "2014-10-24",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 5285
+    },
+    {
+      "id": 10,
+      "name": "Makingway",
+      "date": "2014-03-06",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 1528
+    },
+    {
+      "id": 11,
+      "name": "Wrapture",
+      "date": "2014-04-22",
+      "cover": "http://goo.gl/rzmrTr",
+      "photosCount": 2927
+    },
+    {
+      "id": 12,
+      "name": "Medcom",
+      "date": "2014-04-12",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 4582
+    },
+    {
+      "id": 13,
+      "name": "Avit",
+      "date": "2014-05-23",
+      "cover": "http://goo.gl/rzmrTr",
+      "photosCount": 8959
+    },
+    {
+      "id": 14,
+      "name": "Octocore",
+      "date": "2014-07-19",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 6683
+    },
+    {
+      "id": 15,
+      "name": "Entality",
+      "date": "2014-04-21",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 7645
+    },
+    {
+      "id": 16,
+      "name": "Datacator",
+      "date": "2014-04-03",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 6670
+    },
+    {
+      "id": 17,
+      "name": "Applidec",
+      "date": "2014-02-21",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 6414
+    },
+    {
+      "id": 18,
+      "name": "Parcoe",
+      "date": "2014-06-09",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 8429
+    },
+    {
+      "id": 19,
+      "name": "Utara",
+      "date": "2014-06-07",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 2286
+    },
+    {
+      "id": 20,
+      "name": "Zentility",
+      "date": "2014-02-09",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 2654
+    },
+    {
+      "id": 21,
+      "name": "Bezal",
+      "date": "2014-01-12",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 9899
+    },
+    {
+      "id": 22,
+      "name": "Anarco",
+      "date": "2014-03-08",
+      "cover": "http://goo.gl/rzmrTr",
+      "photosCount": 7286
+    },
+    {
+      "id": 23,
+      "name": "Zytrek",
+      "date": "2014-05-08",
+      "cover": "http://goo.gl/rzmrTr",
+      "photosCount": 8700
+    },
+    {
+      "id": 24,
+      "name": "Comtract",
+      "date": "2014-05-07",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 2899
+    },
+    {
+      "id": 25,
+      "name": "Quizka",
+      "date": "2014-01-24",
+      "cover": "http://goo.gl/AjYCLL",
+      "photosCount": 4487
+    }
+  ],
+  "_pagination": {
+    "currentPage": 1,
+    "perPage": 1,
+    "totalPages": 1,
+    "totalItems": 25
+  },
+  "_links": {
+    "first": "http://bifrost.staging.clubjudge.com:80/v1/albums?perPage=1&page=1",
+    "previous": null,
+    "self": "http://bifrost.staging.clubjudge.com:80/v1/albums?perPage=1&page=1",
+    "next": null,
+    "last": "http://bifrost.staging.clubjudge.com:80/v1/albums?perPage=1&page=1"
+  }
+}

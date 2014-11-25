@@ -1,0 +1,140 @@
+{
+  "_links": {
+    "photos": "http://bifrost.staging.clubjudge.com:80/v1/albums/1/photos"
+  },
+  "album": {
+    "photos": {
+      "source": [
+        {
+          "url": "http://goo.gl/AjYCLL",
+          "date": "2014-09-29T10:29:58",
+          "guid": "01dcd002-22e0-42e6-bff8-ac37ee2ca3a2"
+        },
+        {
+          "url": "http://goo.gl/AjYCLL",
+          "date": "2014-01-04T17:52:36",
+          "guid": "f4cd9c54-35ba-47f2-84e7-e35bf23a75db"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-10-16T03:00:37",
+          "guid": "bfbb85d0-33c1-4922-995c-0bc2989bfd27"
+        },
+        {
+          "url": "http://goo.gl/AjYCLL",
+          "date": "2014-06-26T13:37:58",
+          "guid": "d6f6b3d5-aecf-4006-a945-a0eae3d0c529"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-09-11T14:39:22",
+          "guid": "60a7dd31-39f9-4297-aa75-2f412b642664"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-04-17T18:10:01",
+          "guid": "6a089ac9-65d8-4f87-a7be-208341c59db5"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-09-25T06:40:44",
+          "guid": "8b860023-5018-47c7-9a25-1ac808f996f4"
+        },
+        {
+          "url": "http://goo.gl/AjYCLL",
+          "date": "2014-06-17T06:48:41",
+          "guid": "26d5de58-4e79-482a-973b-d554d2b0e52e"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-10-15T19:09:39",
+          "guid": "9ea390a8-6b20-4b20-aa40-8836241643ff"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-11-19T21:38:28",
+          "guid": "8bfb5761-cf66-4bb2-b408-6f62656780de"
+        },
+        {
+          "url": "http://goo.gl/AjYCLL",
+          "date": "2014-08-19T03:00:48",
+          "guid": "f385be0f-c5af-4569-b94d-31bed61ccd88"
+        },
+        {
+          "url": "http://goo.gl/AjYCLL",
+          "date": "2014-09-15T12:31:25",
+          "guid": "601197ca-68f9-466d-a824-c31c2d837e80"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-11-11T15:14:56",
+          "guid": "67a4275a-7ca1-4afa-acde-09a6f939079f"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-01-05T08:25:00",
+          "guid": "8273e765-b1c3-4f44-9214-300221d63579"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-05-30T17:32:53",
+          "guid": "5b751dc7-1976-4efc-a116-73fcf1955b5f"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-10-23T11:59:19",
+          "guid": "4ba260a1-4900-4a8e-ad9e-d09e9f39eabd"
+        },
+        {
+          "url": "http://goo.gl/AjYCLL",
+          "date": "2014-05-06T12:16:12",
+          "guid": "d752a493-3af4-47d1-a6ea-eb4dcb709d5d"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-03-10T02:36:57",
+          "guid": "9cd6e33b-9754-4b20-8721-9b10579b51e2"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-07-19T01:37:10",
+          "guid": "c23a74de-047d-4c4b-a2c0-2e639a1494d5"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-06-12T22:04:06",
+          "guid": "016c7542-2419-4c54-9a27-8c2b1563d835"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-11-08T13:01:51",
+          "guid": "29fc9306-e2ca-400a-a43d-fd9e34f9bab6"
+        },
+        {
+          "url": "http://goo.gl/AjYCLL",
+          "date": "2014-10-24T09:48:55",
+          "guid": "32549a11-f9e6-4dbc-9f96-d62578069e17"
+        },
+        {
+          "url": "http://goo.gl/AjYCLL",
+          "date": "2014-03-17T00:22:51",
+          "guid": "deb51118-d11c-4d56-b564-947fccd4b5a2"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-09-28T08:41:07",
+          "guid": "89e50b65-926a-47c1-b1a0-075e3d516e29"
+        },
+        {
+          "url": "http://goo.gl/rzmrTr",
+          "date": "2014-06-25T17:00:36",
+          "guid": "6974b2a1-6385-438f-aec0-b053d28b06fb"
+        }
+      ]
+    },
+    "cover": "http://goo.gl/rzmrTr",
+    "registered": "2014-05-10",
+    "name": "Zialactic",
+    "id": 1
+  }
+}
