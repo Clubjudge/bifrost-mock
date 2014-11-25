@@ -1,8 +1,14 @@
 bifrost-mock
 ============
 
-Execute:
+Install npm modules
+
     npm init
-and
+
+Run mock server
+
     node index.js
-    
+
+Available routes:
+* /v1/albums.json
+* /v1/albums/:id.json
