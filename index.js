@@ -2,20 +2,32 @@ var express = require('express');
 var app = express();
 var fs = require("fs");
 
-// app.param('id', /^\d+$/);
-
-
 var morgan = require('morgan');
 app.use(morgan('dev'));
 
-app.get('/v1/albums.json', function (req, res) {
-  var file = JSON.parse(fs.readFileSync("./mock/photos_albums.json", "utf8"));
+var returnJson = function(file, res){
+  var file = JSON.parse(fs.readFileSync(file, "utf8"));
   res.send(file);
+};
+
+app.get('/v1/albums.json', function (req, res) {
+  returnJson("./mock/albums.json", res);
 });
 
 app.get('/v1/albums/:id.json', function (req, res) {
-  var file = JSON.parse(fs.readFileSync("./mock/photos_albums_id.json", "utf8"));
-  res.send(file);
+  returnJson("./mock/albums_id.json", res);
+});
+
+app.get('/v1/albums/:id/photos.json', function (req, res) {
+    returnJson("./mock/albums_id_photos.json", res);
+});
+
+app.get('/v1/photos.json', function (req, res) {
+    returnJson("./mock/photos.json", res);
+});
+
+app.get('/v1/photos/:id.json', function (req, res) {
+    returnJson("./mock/photos_id.json", res);
 });
 
 var server = app.listen(3001, function () {

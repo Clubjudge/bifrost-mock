@@ -1,0 +1,24 @@
+{
+  "generatedBy": "http://beta.json-generator.com/F8Eb2GM",
+  "_links": {
+    "photos": "http://bifrost.staging.clubjudge.com:80/v1/albums/1/photos"
+  },
+  "album": {
+    "cover": {
+      "tags": [
+        "ex",
+        "amet",
+        "ea"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo1.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo1.jpg"
+      },
+      "date": "2014-11-21T07:48:34",
+      "guid": "a499a949-4b85-4ac9-b7c4-e637173a9be5"
+    },
+    "date": "2014-09-09",
+    "name": "Billmed",
+    "id": 1
+  }
+}

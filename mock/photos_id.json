@@ -1,0 +1,16 @@
+{
+  "generatedBy": "http://beta.json-generator.com/",
+  "photo": {
+    "tags": [
+      "qui",
+      "sint",
+      "tempor"
+    ],
+    "formats": {
+      "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo1.jpg",
+      "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo1.jpg"
+    },
+    "date": "2014-01-20T19:10:07",
+    "guid": "71735a92-9c84-4483-be59-8f2afa1165f5"
+  }
+}

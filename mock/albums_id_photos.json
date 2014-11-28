@@ -1,0 +1,278 @@
+{
+  "generatedBy": "http://beta.json-generator.com/Ds9ew4o",
+  "_links": {
+    "last": "http://bifrost.staging.clubjudge.com:80/v1/albums/1/photos?perPage=1&page=1",
+    "next": null,
+    "self": "http://bifrost.staging.clubjudge.com:80/v1/albums/1/photos?perPage=1&page=1",
+    "previous": null,
+    "first": "http://bifrost.staging.clubjudge.com:80/v1/albums/1/photos?perPage=1&page=1"
+  },
+  "_pagination": {
+    "totalItems": 100,
+    "totalPages": 5,
+    "perPage": 1,
+    "currentPage": 1
+  },
+  "photos": [
+    {
+      "tags": [
+        "ea",
+        "magna",
+        "fugiat"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo1.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo1.jpg"
+      },
+      "date": "2014-11-04T01:02:17",
+      "guid": "75e70bd9-b6fd-4384-8d00-0a0f9408fe50"
+    },
+    {
+      "tags": [
+        "veniam",
+        "irure",
+        "non"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo2.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo2.jpg"
+      },
+      "date": "2014-02-09T10:16:40",
+      "guid": "af1a9252-10d8-4045-a41c-b67aa248d05d"
+    },
+    {
+      "tags": [
+        "labore",
+        "nulla",
+        "ut"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo3.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo3.jpg"
+      },
+      "date": "2014-07-23T16:18:08",
+      "guid": "341c71b6-3339-42d6-a34f-c409317ac83d"
+    },
+    {
+      "tags": [
+        "tempor",
+        "reprehenderit",
+        "culpa"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo4.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo4.jpg"
+      },
+      "date": "2014-06-19T00:12:49",
+      "guid": "2b35e976-bdf3-4df6-afab-72a064c2bb17"
+    },
+    {
+      "tags": [
+        "voluptate",
+        "elit",
+        "adipisicing"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo5.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo5.jpg"
+      },
+      "date": "2014-07-19T09:22:55",
+      "guid": "a21f6687-c1f6-4a35-b0d1-e84ff5f8f9fa"
+    },
+    {
+      "tags": [
+        "est",
+        "aute",
+        "proident"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo6.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo6.jpg"
+      },
+      "date": "2014-02-17T13:39:55",
+      "guid": "8cbdce74-4cd4-4aa8-bbf4-a7a49abc8634"
+    },
+    {
+      "tags": [
+        "culpa",
+        "adipisicing",
+        "excepteur"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo7.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo7.jpg"
+      },
+      "date": "2014-03-30T10:55:09",
+      "guid": "e315e936-dd94-45a1-82e1-1a697ec1d069"
+    },
+    {
+      "tags": [
+        "eiusmod",
+        "culpa",
+        "velit"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo8.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo8.jpg"
+      },
+      "date": "2014-08-10T23:00:58",
+      "guid": "c3ea6bb0-8fa3-4b3a-b6ac-72c03b164882"
+    },
+    {
+      "tags": [
+        "nisi",
+        "est",
+        "ut"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo9.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo9.jpg"
+      },
+      "date": "2014-06-24T12:58:04",
+      "guid": "040fdbde-6fba-4c6c-b0cc-3bf7078a3d5b"
+    },
+    {
+      "tags": [
+        "duis",
+        "excepteur",
+        "officia"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo10.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo10.jpg"
+      },
+      "date": "2014-06-12T16:19:31",
+      "guid": "73234e86-5b09-454e-8a3c-9c4c8a5bde88"
+    },
+    {
+      "tags": [
+        "cillum",
+        "id",
+        "dolore"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo11.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo11.jpg"
+      },
+      "date": "2014-05-12T16:09:25",
+      "guid": "2f47cf5c-0f9e-4078-8b47-f9f8ce187531"
+    },
+    {
+      "tags": [
+        "anim",
+        "in",
+        "elit"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo12.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo12.jpg"
+      },
+      "date": "2014-11-13T01:08:18",
+      "guid": "042fb399-0c12-4690-8f6c-15684efcadd6"
+    },
+    {
+      "tags": [
+        "occaecat",
+        "est",
+        "ipsum"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo13.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo13.jpg"
+      },
+      "date": "2014-04-10T07:52:09",
+      "guid": "81e3a7ea-d47a-48dc-8521-e0d344177ef0"
+    },
+    {
+      "tags": [
+        "proident",
+        "fugiat",
+        "culpa"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo14.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo14.jpg"
+      },
+      "date": "2014-04-11T16:07:43",
+      "guid": "76850b9c-ea6d-460b-b925-99688c3047bd"
+    },
+    {
+      "tags": [
+        "cupidatat",
+        "ea",
+        "amet"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo15.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo15.jpg"
+      },
+      "date": "2014-02-27T05:37:25",
+      "guid": "21a65587-3688-4b4e-8c29-8670b15e532b"
+    },
+    {
+      "tags": [
+        "minim",
+        "ea",
+        "eu"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo16.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo16.jpg"
+      },
+      "date": "2014-11-06T05:51:20",
+      "guid": "3fddc01d-e47c-4fdc-81b4-c42389c1d8f2"
+    },
+    {
+      "tags": [
+        "sit",
+        "ex",
+        "esse"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo17.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo17.jpg"
+      },
+      "date": "2014-03-25T05:08:57",
+      "guid": "4cd41208-10f2-4b14-90a5-15a0b7dd1d90"
+    },
+    {
+      "tags": [
+        "eiusmod",
+        "sunt",
+        "laboris"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo18.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo18.jpg"
+      },
+      "date": "2014-04-20T08:27:25",
+      "guid": "7b2ce904-41c7-476d-b583-9dcf81d74a7c"
+    },
+    {
+      "tags": [
+        "sint",
+        "exercitation",
+        "laboris"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo19.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo19.jpg"
+      },
+      "date": "2014-03-31T08:34:16",
+      "guid": "1c17ff76-1ded-4f5e-a598-edc137be9602"
+    },
+    {
+      "tags": [
+        "sit",
+        "deserunt",
+        "dolor"
+      ],
+      "formats": {
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo20.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo20.jpg"
+      },
+      "date": "2014-01-30T07:25:32",
+      "guid": "657040e8-f6d4-472e-a595-a19a1f7797be"
+    }
+  ]
+}
