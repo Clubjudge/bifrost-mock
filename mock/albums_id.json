@@ -1,24 +1,24 @@
 {
-  "generatedBy": "http://beta.json-generator.com/F8Eb2GM",
   "_links": {
     "photos": "http://bifrost.staging.clubjudge.com:80/v1/albums/1/photos"
   },
   "album": {
     "cover": {
       "tags": [
-        "ex",
-        "amet",
-        "ea"
+        "enim",
+        "eiusmod",
+        "ex"
       ],
       "formats": {
-        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-1.jpg",
-        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-1.jpg"
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-1.jpg",
+        "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-1.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-1.jpg"
       },
-      "date": "2014-11-21T07:48:34",
-      "guid": "a499a949-4b85-4ac9-b7c4-e637173a9be5"
+      "date": "2014-08-21T12:37:55",
+      "guid": "5a58af8e-40d2-4287-86ba-e4fe7adcc967"
     },
-    "date": "2014-09-09",
-    "name": "Billmed",
+    "date": "2014-04-28",
+    "name": "Zytrek",
     "id": 1
   }
 }

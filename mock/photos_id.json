@@ -7,8 +7,9 @@
       "tempor"
     ],
     "formats": {
-      "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-1.jpg",
-      "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-1.jpg"
+      "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-1.jpg",
+      "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-1.jpg",
+      "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-1.jpg"
     },
     "date": "2014-01-20T19:10:07",
     "guid": "71735a92-9c84-4483-be59-8f2afa1165f5"
