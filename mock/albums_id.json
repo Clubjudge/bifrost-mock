@@ -1,24 +1,26 @@
 {
+  "generatedBy": "http://beta.json-generator.com/F8Eb2GM",
   "_links": {
     "photos": "http://bifrost.staging.clubjudge.com:80/v1/albums/1/photos"
   },
   "album": {
     "cover": {
+      "credits": "Elsie Long",
       "tags": [
-        "enim",
-        "eiusmod",
-        "ex"
+        "est",
+        "et",
+        "irure"
       ],
       "formats": {
-        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-1.jpg",
-        "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-1.jpg",
-        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-1.jpg"
+        "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-[object Object]1.jpg",
+        "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-[object Object]1.jpg",
+        "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-[object Object]1.jpg"
       },
-      "date": "2014-08-21T12:37:55",
-      "guid": "5a58af8e-40d2-4287-86ba-e4fe7adcc967"
+      "date": "2014-08-09T09:07:59",
+      "guid": "e0b70197-721d-492f-b05d-97b010ba5407"
     },
-    "date": "2014-04-28",
-    "name": "Zytrek",
+    "date": "2014-09-26",
+    "name": "Pushcart",
     "id": 1
   }
 }

@@ -1,17 +1,18 @@
 {
-  "generatedBy": "http://beta.json-generator.com/",
+  "generatedBy": "http://beta.json-generator.com/Dq3VGVp",
   "photo": {
+    "credits": "Barr Castro",
     "tags": [
-      "qui",
-      "sint",
-      "tempor"
+      "nisi",
+      "magna",
+      "sint"
     ],
     "formats": {
-      "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-1.jpg",
-      "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-1.jpg",
+      "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-1.jpg",
+      "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-1.jpg",
       "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-1.jpg"
     },
-    "date": "2014-01-20T19:10:07",
-    "guid": "71735a92-9c84-4483-be59-8f2afa1165f5"
+    "date": "2014-08-03T02:23:59",
+    "guid": "fb2dfe9b-9ab8-4bd7-9975-b4043db178fd"
   }
 }
