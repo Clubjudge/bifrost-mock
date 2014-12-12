@@ -23,7 +23,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-1.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-1.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-1.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-1.jpg"
         },
         "date": "2014-01-01T01:17:22",
@@ -43,7 +43,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-2.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-2.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-2.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-2.jpg"
         },
         "date": "2014-04-03T17:27:35",
@@ -63,7 +63,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-3.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-3.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-3.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-3.jpg"
         },
         "date": "2014-06-11T00:07:56",
@@ -83,7 +83,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-4.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-4.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-4.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-4.jpg"
         },
         "date": "2014-10-21T17:12:17",
@@ -103,7 +103,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-5.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-5.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-5.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-5.jpg"
         },
         "date": "2014-07-11T20:57:05",
@@ -123,7 +123,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-6.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-6.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-6.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-6.jpg"
         },
         "date": "2014-04-04T02:19:37",
@@ -143,7 +143,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-7.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-7.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-7.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-7.jpg"
         },
         "date": "2014-10-22T04:10:03",
@@ -163,7 +163,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-8.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-8.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-8.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-8.jpg"
         },
         "date": "2014-04-25T11:55:56",
@@ -183,7 +183,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-9.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-9.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-9.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-9.jpg"
         },
         "date": "2014-06-13T00:05:02",
@@ -203,7 +203,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-10.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-10.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-10.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-10.jpg"
         },
         "date": "2014-04-17T22:39:45",
@@ -223,7 +223,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-11.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-11.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-11.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-11.jpg"
         },
         "date": "2014-08-07T07:16:48",
@@ -243,7 +243,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-12.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-12.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-12.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-12.jpg"
         },
         "date": "2014-04-18T01:54:07",
@@ -263,7 +263,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-13.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-13.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-13.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-13.jpg"
         },
         "date": "2014-04-07T09:19:46",
@@ -283,7 +283,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-14.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-14.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-14.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-14.jpg"
         },
         "date": "2014-09-06T21:45:52",
@@ -303,7 +303,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-15.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-15.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-15.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-15.jpg"
         },
         "date": "2014-06-20T04:16:04",
@@ -323,7 +323,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-16.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-16.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-16.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-16.jpg"
         },
         "date": "2014-01-25T00:23:19",
@@ -343,7 +343,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-17.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-17.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-17.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-17.jpg"
         },
         "date": "2014-05-31T11:17:44",
@@ -363,7 +363,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-18.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-18.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-18.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-18.jpg"
         },
         "date": "2014-06-23T15:24:55",
@@ -383,7 +383,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-19.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-19.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-19.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-19.jpg"
         },
         "date": "2014-11-05T15:55:24",
@@ -403,7 +403,7 @@
         ],
         "formats": {
           "square_250": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-square-20.jpg",
-          "rectangle_650_280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-20.jpg",
+          "rectangle_650x280": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-cover-20.jpg",
           "scaled_photo": "http://images.clubjudge.com.s3.amazonaws.com/tmp/photo-pic-20.jpg"
         },
         "date": "2014-08-24T22:43:37",
